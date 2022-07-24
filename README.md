@@ -10,7 +10,7 @@ Well I guess thats enough of that.
 
 Quick shout out to the course that got me into this world of fun- Agrotechnology Lab at the Hebrew University Faculty of Agriculture- [link](https://agrotech-lab.github.io/)
 
-Follow the steps provided [link](https://agrotech-lab.github.io/code/2022/03/07/intro) to install Arduino and set it to the settings for using the ESP32 microcontroller board (used in this project)
+Follow the steps provided [Here](https://agrotech-lab.github.io/code/2022/03/07/intro) to install Arduino and set it to the settings for using the ESP32 microcontroller board (used in this project)
 
 You will also need to create an account on thingspeak to be able to upload the data from the sensors to this cloudspace, visualize it in RealTime, and export it for analysis [link](https://thingspeak.com/)  
 
