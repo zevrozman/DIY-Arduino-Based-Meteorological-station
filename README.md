@@ -8,13 +8,12 @@ Follow the steps provided [link](https://agrotech-lab.github.io/code/2022/03/07/
 
 You will also need to create an account on thingspeak to be able to upload the data from the sensors to this cloudspace, visualize it in RealTime, and export it for analysis [link](https://thingspeak.com/)  
 
-To get started with this project you will need:
-
-To download the Arduino Platform
-
+To get started with this project (after properly installing Arduino) you will need,
 List of components:
 
 ESP32 microcontroller
+
+Mini USB cable 
 
 GY-b11 280 barometric pressure sensor (also measures temperature and RH, but only pressure (Pa) included in final merged code)
 
