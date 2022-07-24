@@ -1,9 +1,9 @@
 # DIY-Arduino-Based-Meteorological-Upload to thingspeak 
 Using a combination of meteorological sensors to calculate daily evapotranspiration rates according to the Penman Monteith equation
 Hi All!
-Quick shout out to the course that got me into this world of fun- Agrotechnology Lab at the Hebrew University Faculty of Agriculture- [link]("https://agrotech-lab.github.io/")
-Follow the steps provided [link]("https://agrotech-lab.github.io/code/2022/03/07/intro") to install Arduino and set it to the settings for using the ESP32 microcontroller board (used in this project)
-You will also need to create an account on thingspeak to be able to upload the data from the sensors to this cloudspace, visualize it in RealTime, and export it for analysis [link]("https://thingspeak.com/").  
+Quick shout out to the course that got me into this world of fun- Agrotechnology Lab at the Hebrew University Faculty of Agriculture- [link](https://agrotech-lab.github.io/)
+Follow the steps provided [link](https://agrotech-lab.github.io/code/2022/03/07/intro) to install Arduino and set it to the settings for using the ESP32 microcontroller board (used in this project)
+You will also need to create an account on thingspeak to be able to upload the data from the sensors to this cloudspace, visualize it in RealTime, and export it for analysis [link](https://thingspeak.com/).  
 
 To get started with this project you will need:
 To download the Arduino Platform 
