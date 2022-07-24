@@ -18,8 +18,8 @@ To get started with this project (after properly installing Arduino) you will ne
 List of components:
 
 * ESP32 microcontroller
-*Mini USB cable 
-*GY-b11 280 barometric pressure sensor (also measures temperature and RH, but only pressure (Pa) included in final merged code)
+2. Mini USB cable 
+3. GY-b11 280 barometric pressure sensor (also measures temperature and RH, but only pressure (Pa) included in final merged code)
 *SHT3X temperature and Relative Humidity Sensor (also used to calculate VPD in kPa)
 *ADS1115 module (increases resolution- 2^16 bits)
 *Solar Radiation Sensor- model RY EBN1, sensitivity 277.01µV to W/M^2
