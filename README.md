@@ -1,6 +1,7 @@
-# DIY-Arduino-Based-Meteorological-Upload to thingspeak 
-Using a combination of meteorological sensors to calculate daily evapotranspiration rates according to the Penman Monteith equation
+# DIY-Arduino-Based-Meteorological Station -Upload data to a Thingspeak channel
 Hi All!
+
+In this project we will use a combination of meteorological sensors to calculate daily evapotranspiration rates according to the Penman Monteith equation. The sensors will upload the data from all the included sensors to Thingspeak 3 times a minute, and be used together to calculate evapotranspiration. 
 
 Quick shout out to the course that got me into this world of fun- Agrotechnology Lab at the Hebrew University Faculty of Agriculture- [link](https://agrotech-lab.github.io/)
 
