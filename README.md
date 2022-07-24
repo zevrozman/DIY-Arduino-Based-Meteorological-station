@@ -17,8 +17,7 @@ You will also need to create an account on thingspeak to be able to upload the d
 To get started with this project (after properly installing Arduino) you will need,
 List of components:
 
-ESP32 microcontroller
-
+* ESP32 microcontroller
 Mini USB cable 
 
 GY-b11 280 barometric pressure sensor (also measures temperature and RH, but only pressure (Pa) included in final merged code)
