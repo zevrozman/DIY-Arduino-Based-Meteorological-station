@@ -1,0 +1,5 @@
+Thank you @Alevegreen for your help making the instructables site.
+
+The following steps will explain how to assemble and what to check before running.
+We choose to write it in instructables site for better visualization and step by step explanation
+you can check it out at [link](https://www.instructables.com/Basic-Weather-Station-for-Greenhouse/)
